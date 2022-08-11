@@ -1,1 +1,0 @@
-# solaris-ui-lib
